@@ -1,7 +1,11 @@
-# NCRE_python_study_notes
-全国计算机等级考试二级python的学习笔记（适用2020年）
+# python_study_notes
+本笔记内容适用于：
 
-下面的推荐均是亲自用过的。
+[上海市高等学校信息技术水平考试](http://www.shmeea.edu.cn/page/05800/20201015/14593.html) 二级 Python程序设计
+
+[全国计算机等级考试](http://ncre.neea.edu.cn) 二级 Python语言程序设计
+
+（最后更新于2020年11月）
 
 ---
 
