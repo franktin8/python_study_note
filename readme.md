@@ -17,7 +17,7 @@
 ## 习题推荐
 [《高教版 Python语言程序设计冲刺试卷》](https://book.douban.com/subject/35053429)
 
-[python123习题库](https://python123.io/index/ncre)
+[Python123 习题库](https://python123.io/index/ncre)
 
 ## 视频推荐
 中国大学MOOC [《Python语言程序设计》](https://www.icourse163.org/course/BIT-268001)
